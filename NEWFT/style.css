@@ -1,0 +1,9 @@
+body{
+   
+    background-color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+h1, label{
+    color: aliceblue;
+}
